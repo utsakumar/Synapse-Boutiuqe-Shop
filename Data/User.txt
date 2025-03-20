@@ -1,0 +1,9 @@
+User Name : abc
+Password : 123
+Email or Phone : 018778656755
+Security Question: what's your favorite sports?
+Security Answer : football
+Time And Date : 15:32 PM, 11/12/2023
+
+===============================================================
+===============================================================
